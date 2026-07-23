@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Snore Detector reads your sleep stages (REM, Core, Deep, Awake) from Apple Health to show when snoring happened during each stage. Data is analyzed on your device and never leaves it.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Snore Detector listens while you sleep to detect and record only your snoring. Audio is analyzed on your device and never leaves it.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>processing</string>
+	</array>
+</dict>
+</plist>
