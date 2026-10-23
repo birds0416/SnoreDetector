@@ -6,6 +6,21 @@ segments where snoring occurred — with timestamps. Non-snoring audio is never 
 
 No servers, no subscriptions, no network access at all.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/main_screen.png" width="200" alt="Record screen, ready to start"><br><sub><b>Record</b>: ready to start</sub></td>
+    <td align="center"><img src="screenshots/detection_screen.png" width="200" alt="Record screen while listening"><br><sub><b>Listening</b>: live snoring confidence</sub></td>
+    <td align="center"><img src="screenshots/history_screen.png" width="200" alt="History screen"><br><sub><b>History</b>: past sessions</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/analysis_screen.png" width="200" alt="Analysis screen"><br><sub><b>Analysis</b>: sleep stages and snoring episodes</sub></td>
+    <td align="center"><img src="screenshots/settings_screen.png" width="200" alt="Settings screen"><br><sub><b>Settings</b>: Apple Health and privacy</sub></td>
+    <td></td>
+  </tr>
+</table>
+
 ## Requirements
 
 - Xcode 15 or newer
